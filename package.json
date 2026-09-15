@@ -1,6 +1,6 @@
 {
     "name": "@lekzo/baileys",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "WhatsApp API Modification By Lekzo",
     "keywords": [
         "Baileys",
@@ -123,16 +123,16 @@
     "peerDependenciesMeta": {
         "audio-decode": {
             "optional": true
-    },
-    "jimp": {
-        "optional": true
-    },
-    "link-preview-js": {
-        "optional": true
+        },
+        "jimp": {
+            "optional": true
+        },
+        "link-preview-js": {
+            "optional": true
         }
     },
     "packageManager": "yarn@4.9.2",
-        "engines": {
-            "node": ">=20.0.0"
-        }
+    "engines": {
+        "node": ">=20.0.0"
+    }
 }
